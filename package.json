@@ -1,0 +1,12 @@
+{
+  "name": "@snarechops/html",
+  "version": "0.0.1",
+  "description": "A very simple dom creation lib. Useful for just throwing a few dom elements together from js.",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SnareChops",
+  "license": "MIT"
+}
